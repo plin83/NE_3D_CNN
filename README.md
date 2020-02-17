@@ -7,7 +7,7 @@ Lin, P. et al. Three-Dimensional Memristor Circuits as Complex Neural Networks.
 
 # Contributions
 
-Authors(Alphabetic) : Peng Lin
+Authors : Peng Lin
 
 Advisors: 
 Prof. Qiangfei Xia (Email: qxia at umass dot edu, Website: http://nano.ecs.umass.edu); Prof. J. Joshua Yang (Email: jjyang at umass dot edu, Website: http://www.ecs.umass.edu/ece/jjyang/); 
@@ -33,7 +33,7 @@ The training results will be graphically displayed on screen promptly.
 
 # LICENSE
 
-Copyright (c) 2018, 
+Copyright (c) 2020, 
 Department of Electrical and Computer Engineering, University of Massachusetts Amherst
 All rights reserved.
                       
