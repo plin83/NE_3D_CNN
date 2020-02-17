@@ -15,12 +15,21 @@ Prof. Qiangfei Xia (Email: qxia at umass dot edu, Website: http://nano.ecs.umass
 # SYSTEM REQUIREMENT
 
 The codes have been tested on Mathworks Matlab R2017b - R2019b.
+Any operating systems that are compatible with above MATLAB versions should be used.
+
+# INSTALLATION GUIDE
+
+Place all the files in the same folder and assign the folder as "the current folder" in MATLAB
+
+# DEMO
+
+The MNIST database is included in the respository.
+The training results will be graphically displayed on screen promptly.
 
 # INSTRUCTIONS
 
 1. Run the script "ex_situ_cnn_training.m" to train the convolutional nerual network.
 2. (Optional) run script "ex_situ_cnn_test.m" after the training to classfy images in MNIST test set.
-3. The codes that interface the hardware is not provided. 
 
 # LICENSE
 
